@@ -2,8 +2,6 @@
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/punkpeye/awesome-mcp-servers)
 
-<br>
-
 <a href="https://github.com/girste/mcp-cybersec-watchdog">
   <img src="https://raw.githubusercontent.com/girste/mcp-cybersec-watchdog/master/docs/images/cover-watchdog-mcp.png" width="200">
 </a>
