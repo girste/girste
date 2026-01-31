@@ -1,15 +1,10 @@
 <div align="center">
 
-![Cover](https://raw.githubusercontent.com/girste/mcp-cybersec-watchdog/master/docs/images/cover-watchdog-mcp.png)
+<img src="https://raw.githubusercontent.com/girste/mcp-cybersec-watchdog/master/docs/images/cover-watchdog-mcp.png" width="200">
 
-## 👨‍💻 girste
-
-**Sysadmin | DevSecOps | Spec-Driven Coding**  
-🤖 AI-augmented development
+**Sysadmin | DevSecOps | Spec-Driven Coding**
 
 ---
-
-### 🚀 Projects
 
 [![MCP Cybersec Watchdog](https://img.shields.io/badge/MCP-Cybersec%20Watchdog-blue?style=for-the-badge&logo=security&logoColor=white)](https://github.com/girste/mcp-cybersec-watchdog)
 
