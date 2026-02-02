@@ -2,17 +2,17 @@
 
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://github.com/punkpeye/awesome-mcp-servers)
 
-<a href="https://github.com/girste/mcp-cybersec-watchdog">
-  <img src="https://raw.githubusercontent.com/girste/mcp-cybersec-watchdog/master/docs/images/cover-watchdog-mcp.png" width="400">
+<a href="https://github.com/girste/CHIHUAUDIT">
+  <img src="https://raw.githubusercontent.com/girste/CHIHUAUDIT/main/docs/images/chihuaudit_cover.png" width="400">
 </a>
 
 <br>
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/girste/mcp-cybersec-watchdog/badge)](https://securityscorecards.dev/viewer/?uri=github.com/girste/mcp-cybersec-watchdog)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/girste/CHIHUAUDIT/badge)](https://securityscorecards.dev/viewer/?uri=github.com/girste/CHIHUAUDIT)
 
 <br>
 
-[![MCP Cybersec Watchdog](https://img.shields.io/badge/MCP-Cybersec%20Watchdog-blue?style=for-the-badge&logo=security&logoColor=white)](https://github.com/girste/mcp-cybersec-watchdog)
+[![MCP Chihuaudit](https://img.shields.io/badge/MCP-Chihuaudit-blue?style=for-the-badge&logo=security&logoColor=white)](https://github.com/girste/CHIHUAUDIT)
 
 Security monitoring for Linux servers.
 
