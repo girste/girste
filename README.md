@@ -10,9 +10,11 @@
 
 <br><br>
 
+**Sysadmin | Spec-Driven Coding | AI-Ops**
+
+<br>
+
 🌐 [girste.com](https://girste.com)  
 📧 me@girste.com
-
-**Sysadmin | DevSecOps | Spec-Driven Coding**
 
 </div>
