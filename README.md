@@ -8,17 +8,4 @@
   <img src="https://raw.githubusercontent.com/girste/CHIHUAUDIT/main/docs/chihuaudit-cover.png" width="600">
 </a>
 
-<br>
-
----
-
-<br>
-
-**Sysadmin | Spec-Driven Coding | AI-Ops**
-
-<br>
-
-🌐 [girste.com](https://girste.com)  
-📧 me@girste.com
-
 </div>
