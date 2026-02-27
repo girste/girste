@@ -15,6 +15,6 @@
 - E-commerce platforms and scalability
 - AIOps solutions
 - Self-hosting and IaC
-- Security (ISC2 CC / Comptia S+)
+- Security (ISC2 CC)
 
 🌐 [girste.com](https://girste.com)
