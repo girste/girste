@@ -12,10 +12,9 @@
 ---
 
 ### Focused on
-- E-commerce platforms and scalability
-- AIOps solutions
-- Self-hosting and IaC
-- Security (ISC2 CC)
+- Prompt engineering / Aiops
+- Iac / self-hosting
+- e-commerce
 + some strnge experiments
 
 🌐 [girste.com](https://girste.com)
