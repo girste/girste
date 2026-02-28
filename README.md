@@ -16,5 +16,6 @@
 - AIOps solutions
 - Self-hosting and IaC
 - Security (ISC2 CC)
++ some strnge experiments
 
 🌐 [girste.com](https://girste.com)
