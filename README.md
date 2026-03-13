@@ -1,6 +1,6 @@
-<a href="https://github.com/speq-ai/speq"><img src="https://raw.githubusercontent.com/speq-ai/speq/main/assets/banner.svg" alt="SpeQ"></a>
+[![★](https://img.shields.io/github/stars/speq-ai/speq?style=flat-square&color=ffafff&label=★)](https://github.com/speq-ai/speq)
 
-[![⭐](https://img.shields.io/github/stars/speq-ai/speq?style=flat-square&color=ffafff&label=⭐)](https://github.com/speq-ai/speq)
+<a href="https://github.com/speq-ai/speq"><img src="https://raw.githubusercontent.com/speq-ai/speq/main/assets/banner.svg" alt="SpeQ"></a>
 
 ---
 
@@ -16,16 +16,12 @@
 
 ### Deploying on
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_Spark-76b900?style=flat-square&logo=nvidia)](https://www.nvidia.com)
-[![Hetzner](https://img.shields.io/badge/Hetzner-Cloud-ffafff?style=flat-square&logo=hetzner)](https://www.hetzner.com)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-Jetson_AGX-76b900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+[![Hetzner](https://img.shields.io/badge/Hetzner-Cloud_/_VPS-ffafff?style=flat-square&logo=hetzner)](https://www.hetzner.com)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud-ffafff?style=flat-square&logo=oracle&logoColor=c74634)](https://www.oracle.com/cloud/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-ffafff?style=flat-square&logo=cloudflare)](https://workers.cloudflare.com)
 
 ---
-
-### Job
-- AI Infra Engineering / AIOps / MLOps
-- IaC / Self-hosting
-- Working on DGX Spark / VPS
 
 🌐 [girste.com](https://girste.com)
 
