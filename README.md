@@ -1,11 +1,13 @@
-maintaining / developing:<br>
+### Maintaining
+
 <a href="https://github.com/speq-ai/speq"><img src="https://raw.githubusercontent.com/speq-ai/speq/main/assets/banner.svg" alt="SpeQ"></a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/speq-ai/speq?style=flat-square&logo=github&label=speq%20stars&color=ffafff)](https://github.com/speq-ai/speq)
+⭐ [![GitHub Stars](https://img.shields.io/github/stars/speq-ai/speq?style=flat-square&color=ffafff&label=stars)](https://github.com/speq-ai/speq)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=100&color=ffafff&random=false&width=700&lines=Building+with+Claude+Code;Building+with+GitHub+Copilot;Building+with+OpenAI+API;Building+with+OpenRouter)](https://readme-typing-svg.demolab.com)
+[![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic&logoColor=ffafff)](https://anthropic.com)
+[![Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=ffafff)](https://github.com/features/copilot)
 
 [![Skills](https://skillicons.dev/icons?i=python,bash,fastapi,typescript,sqlite&theme=dark)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,discord&theme=dark)](https://skillicons.dev)
@@ -18,7 +20,7 @@ maintaining / developing:<br>
 
 ---
 
-### working/job:
+### Job
 - AI Infra Engineering / AIOps / MLOps
 - IaC / Self-hosting
 - Working on DGX Spark / VPS
