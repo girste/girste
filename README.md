@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=100&color=ffafff&random=false&width=700&lines=Building+with+Claude+Code;Building+with+GitHub+Copilot;Building+with+OpenAI+API;Building+with+OpenRouter)](https://readme-typing-svg.demolab.com)
 
+<img src="claude-jumping.svg" alt="Claude mascot" width="80">
+
 [![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic&logoColor=ffafff)](https://anthropic.com)
 [![Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=ffafff)](https://github.com/features/copilot)
 
