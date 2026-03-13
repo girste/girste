@@ -1,6 +1,7 @@
-<p>maintaining / developing:<br>
-<a href="https://github.com/speq-ai/speq"><img src="speq-img.png" alt="SpeQ"></a>
-</p>
+maintaining / developing:<br>
+<a href="https://github.com/speq-ai/speq"><img src="https://raw.githubusercontent.com/speq-ai/speq/main/assets/banner.svg" alt="SpeQ"></a>
+
+[![GitHub Stars](https://img.shields.io/github/stars/speq-ai/speq?style=flat-square&logo=github&label=speq%20stars&color=ffafff)](https://github.com/speq-ai/speq)
 
 ---
 
