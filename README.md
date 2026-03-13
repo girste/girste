@@ -12,7 +12,7 @@
 [![Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=ffafff)](https://github.com/features/copilot)
 
 [![Skills](https://skillicons.dev/icons?i=python,bash,fastapi,typescript,sqlite&theme=dark)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,discord&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,tailscale,discord&theme=dark)](https://skillicons.dev)
 
 ### Deploying on
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_Spark-76b900?style=flat-square&logo=nvidia)](https://www.nvidia.com)
