@@ -11,8 +11,8 @@
 [![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=anthropic&logoColor=ffafff)](https://anthropic.com)
 [![Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=ffafff)](https://github.com/features/copilot)
 
-[![Skills](https://skillicons.dev/icons?i=bash,python,fastapi,flask,sqlite,git&theme=dark)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,prometheus,grafana,discord&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash,python,sqlite,git&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ansible,docker,aws,cloudflare,prometheus,grafana,discord&theme=dark)](https://skillicons.dev)
 
 ### Deploying on
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_Spark-76b900?style=flat-square&logo=nvidia)](https://www.nvidia.com)
@@ -22,6 +22,11 @@
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-ffafff?style=flat-square&logo=cloudflare)](https://workers.cloudflare.com)
 
 ---
+
+## Studying
+
+![Rust](https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white)
+![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=flat-square&logo=gleam&logoColor=black)
 
 🌐 [girste.com](https://girste.com)
 
