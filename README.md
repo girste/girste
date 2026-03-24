@@ -18,7 +18,6 @@
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_Spark-76b900?style=flat-square&logo=nvidia)](https://www.nvidia.com)
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-Jetson_AGX-76b900?style=flat-square&logo=nvidia)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 [![Hetzner](https://img.shields.io/badge/Hetzner-Cloud_/_VPS-ffafff?style=flat-square&logo=hetzner)](https://www.hetzner.com)
-[![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud-ffafff?style=flat-square&logo=oracle&logoColor=c74634)](https://www.oracle.com/cloud/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-ffafff?style=flat-square&logo=cloudflare)](https://workers.cloudflare.com)
 
 ---
