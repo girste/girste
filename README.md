@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="https://cdn.simpleicons.org/cursor/ffffff" width="56" alt="Cursor" />
+  <img src="https://cdn.simpleicons.org/claudecode/ffffff" width="56" alt="Cursor" />
   <br>
   <br>
   <br>
